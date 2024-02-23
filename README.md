@@ -27,11 +27,11 @@
 
 #### Tools:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=webstorm"/>](https://www.jetbrains.com/webstorm)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-
 <br>
 <br />
 
@@ -91,7 +91,7 @@
 <!--STARTS_HERE_QUOTE_CARD-->
 <h2 align="center">🌟 THOUGHT OF THE DAY 🌟</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%Torvalds&quote=Talk%20is%20cheap.%20Show%20me%20the%20code&colors.&theme=radical&bg_color=141321&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=Talk%20is%20cheap.%20Show%20me%20the%20code&colors.&theme=radical&bg_color=141321&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
