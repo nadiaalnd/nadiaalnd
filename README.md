@@ -6,9 +6,9 @@
 ## Language and Tools
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English & Indonesia-dodgerblue" />
+<p align="left">
+    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
+    <img src="https://img.shields.io/badge/Languages-English & Indonesia-dodgerblue" />
 </p>
 
 #### Main Stack:
@@ -31,46 +31,28 @@
 <br />
 
 
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <h2 align="center">📊 GITHUB STATS 📊</h2>
 <div align="center">
     <table width="100%">
-      <tr>
-        <td width="50%">
-          <h3 align="center"><strong>Github Stats</strong></h3>
-          <p align="center">
-            <a href="https://github.com/nadiaalnd">
-              <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiaalnd&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-            </a>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center"><strong>Streak Stats</strong></h3>
-          <p align="center">
-            <a href="https://github.com/nadiaalnd">
-              <img align="center" src="https://streak-stats.demolab.com?user=nadiaalnd&theme=radical" alt="Streak Stats" />
-            </a>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h3 align="center"><strong>Most Language</strong></h3>
-          <p align="center">
-            <a href="https://github.com/nadiaalnd">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaalnd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Language" />
-            </a>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center"><strong>Latest Project</strong></h3>
-          <p align="center">
-            <a href="https://github.com/nadiaalnd/WAJ">
-              <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nadiaalnd&repo=WAJ&theme=radical&show_owner=true" alt="Cryptos Project" />
-            </a>
-          </p>
-        </td>
-      </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center"><strong>Github Stats</strong></h3>
+                <p align="center">
+                    <a href="https://github.com/nadiaalnd">
+                        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiaalnd&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+                    </a>
+                </p>
+            </td>
+            <td width="50%">
+                <h3 align="center"><strong>Most Language</strong></h3>
+                <p align="center">
+                    <a href="https://github.com/nadiaalnd">
+                        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaalnd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Language" />
+                    </a>
+                </p>
+            </td>
+        </tr>
     </table>
 </div>
 <br />
@@ -94,17 +76,17 @@
 <h3 align="center" >Connect with me 🤝</h3>
 
 <p align="center">
-    <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/nadila-aulya/">
-            <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" >
-        </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nadiaalnd/">
-            <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-        </a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:“nadilaaulya.sm@gmail.com”">
-            <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;">
-        </a>
-    </div>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a target="_blank" href="https://www.linkedin.com/in/nadila-aulya/">
+        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" >
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/nadiaalnd/">
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:“nadilaaulya.sm@gmail.com”">
+        <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;">
+    </a>
+</div>
 </p>
 
 -----
