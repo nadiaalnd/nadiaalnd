@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 <p align="left">
-    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
+    <img src="https://img.shields.io/badge/Focus-UI/UX%20Design-dodgerblue" />
     <img src="https://img.shields.io/badge/Languages-English & Indonesia-dodgerblue" />
 </p>
 
