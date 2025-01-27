@@ -12,21 +12,21 @@
 </p>
 
 #### Main Stack:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"/>](https://k6.io/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vue"/>](https://vuejs.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
+[<img height="48px" width="48px" alt="Icone K6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"/>](https://k6.io/)
+[<img height="48px" width="48px" alt="Icone Vue Js" src="https://skillicons.dev/icons?i=vue"/>](https://vuejs.org/)
+[<img height="48px" width="48px" alt="Icone Typescript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+[<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
 
 
 #### Studying in this moment:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=selenium"/>](https://www.selenium.dev/)
+[<img height="48px" width="48px" alt="Icone Selenium" src="https://skillicons.dev/icons?i=selenium"/>](https://www.selenium.dev/)
 
 #### Tools:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=webstorm"/>](https://www.jetbrains.com/webstorm)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+[<img height="48px" width="48px" alt="Icone Webstorm" src="https://skillicons.dev/icons?i=webstorm"/>](https://www.jetbrains.com/webstorm)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/)
+[<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/)
 <br>
 <br />
 
